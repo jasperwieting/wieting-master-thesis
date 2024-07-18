@@ -1,5 +1,5 @@
 # wieting-master-thesis
-Code-Listings und Daten für die empirische Analyse der Masterarbeit "Finanzmarktliberalisierungen und ihre Verteilungswirkungen: Eine empirische Analyse"
+Code-Listings und Daten für die empirische Analyse der Masterarbeit "Finanzmarktliberalisierungen und ihre Verteilungswirkungen: Eine empirische Analyse".
 
 Ordner Abbildungen:
 1. "Abb 1 - Brutto-Gini und FL im Zeitverlauf.do"  --> Do-File für die Abbildung 1.
